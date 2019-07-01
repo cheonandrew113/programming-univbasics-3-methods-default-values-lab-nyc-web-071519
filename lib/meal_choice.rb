@@ -6,4 +6,4 @@ def meal_choice(veg1, veg2, protein = "meat")
   
 end
 
-  puts "A plate of #{protein} with #{veg1} and #{veg2}."
+  p "A plate of #{protein} with #{veg1} and #{veg2}."
